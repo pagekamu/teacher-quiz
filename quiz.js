@@ -4,7 +4,7 @@
 //  See README.md for setup instructions.
 // ─────────────────────────────────────────────
 const CONFIG = {
-  GOOGLE_SCRIPT_URL: "YOUR_GOOGLE_APPS_SCRIPT_URL_HERE",
+  GOOGLE_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbz1vvBIaTjhXA2crDLZj_eNpNCNqrjBD-TORFtowSIH1b_mQMVVsIBqRLHon_dtFm8aoA/exec",
   QUIZ_DURATION_MINUTES: 30,
   QUIZ_TITLE: "English Proficiency Test — Teacher Candidate"
 };
